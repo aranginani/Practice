@@ -5,5 +5,12 @@
   </head>
   <body>
     <p> Wow. </p>
+    <table>
+      <thead>
+        <th colspan="3">Favorites </th>
+      </thead>
+      <tbody>
+      </tbody>
+    </table>
   </body>
 </html>
